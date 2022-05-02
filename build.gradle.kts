@@ -1,8 +1,8 @@
 import org.jetbrains.compose.compose
 
 plugins {
-    kotlin("multiplatform") version "1.6.10"
-    id("com.android.library") version "7.0.4"
+    kotlin("multiplatform")
+    id("com.android.library")
     id("org.jetbrains.compose") version "1.1.1"
 
 }
